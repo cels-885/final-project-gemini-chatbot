@@ -1,6 +1,6 @@
 # AI Chatbot with Gemini API
 
-Proyek ini adalah aplikasi chatbot sederhana yang dibangun menggunakan **Node.js** dan **Express** di bagian backend, serta **Vanilla JavaScript** di bagian frontend. Chatbot ini menggunakan model AI **gemini-1.5-flash** untuk memberikan respon yang cepat dan dinamis.
+Proyek ini adalah aplikasi chatbot sederhana yang dibangun menggunakan **Node.js** dan **Express** di bagian backend, serta **Vanilla JavaScript** di bagian frontend. Chatbot ini menggunakan model AI **gemini-2.5-flash** untuk memberikan respon yang cepat dan dinamis.
 
 ## 👤 Identitas Mahasiswa
 * **Nama**: Elok Faiqoh
