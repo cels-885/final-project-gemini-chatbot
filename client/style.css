@@ -50,6 +50,8 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: #555 transparent;
 }
 
 .message {
@@ -110,4 +112,17 @@ button {
 
 button:hover {
   opacity: 0.9;
+}
+
+.chat-box::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-box::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 3px;
 }
